@@ -68,7 +68,7 @@ function ProductDetail({ product }) {
                <p className="product-qty">
                   Total Price: {product.price * qty}
                </p> 
-               <p className="product-qty">
+               <p className="product-color">
                   Color: {color}
                </p>               
                <AddToCart />
