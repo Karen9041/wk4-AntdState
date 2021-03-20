@@ -243,6 +243,10 @@ body {
   opacity: 0.7;
 }
 
+.product-color{
+  margin-left: 1rem;
+}
+
 .qty-number {
   color: white;
   background-color: #111828;
